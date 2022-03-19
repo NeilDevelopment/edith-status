@@ -7,8 +7,6 @@ sites:
     url: https://neildevelopment.xyz
   - name: Paste
     url: https://paste.neildevelopment.xyz
-  - name: CDN
-    url: https://cdn.neildevelopment.xyz
 
 
 status-website:
