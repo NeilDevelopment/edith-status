@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-19": 804,
+      "2022-03-19": 883,
       "2022-03-18": 1440,
       "2022-03-17": 367
     }
@@ -44,19 +44,19 @@
     "url": "https://cdn.neildevelopment.xyz",
     "icon": "https://favicons.githubusercontent.com/cdn.neildevelopment.xyz",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.94%",
-    "time": 484,
-    "timeDay": 517,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "status": "up",
+    "uptime": "96.07%",
+    "uptimeDay": "92.65%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "96.07%",
+    "uptimeYear": "96.07%",
+    "time": 518,
+    "timeDay": 560,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2022-03-19": 28
+      "2022-03-19": 106
     }
   }
 ]
